@@ -55,8 +55,8 @@ module.exports = {
   event: {
     name: process.env.EVENT_NAME || 'Music Festival',
     date: process.env.EVENT_DATE || '2025-06-15',
-    venue: process.env.EVENT_VENUE || 'Central Park',
-    address: process.env.EVENT_ADDRESS || '123 Main St, City, Country',
+    venue: process.env.EVENT_VENUE || 'Nairobi',
+    address: process.env.EVENT_ADDRESS || '00100',
     coordinates: {
       lat: process.env.EVENT_LAT || -1.2921,
       lng: process.env.EVENT_LNG || 36.8219,

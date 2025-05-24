@@ -43,8 +43,8 @@ A highly customizable and reusable template for event ticketing websites, design
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/music-festival-ticketing.git
-cd music-festival-ticketing
+git clone https://github.com/lameckirungu/event-site-template.git
+cd event-site-template
 ```
 
 2. Install backend dependencies
@@ -234,3 +234,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Supabase for the database solution
 - M-Pesa for the payment integration
 - SendGrid for the email delivery service
+
+---
+
+*Built by [Lameck Irungu](https://github.com/lameckirungu)* 
+*Contact: mugolameck@gmail.com*
